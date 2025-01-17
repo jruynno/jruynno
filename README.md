@@ -3,7 +3,7 @@
 # 💫 About Me:
 ☁️ An aspiring Cloud Arhcitect<br>
 🎓 A Fresh Gradudate with Distinction 🥇🌟<br>
-💻 Currently studying AWS, SQL, Python, and cloud infrastructure
+💻 Currently deepening my knowledge in AWS, SQL, and Python
 
 
 ## 🌐 Socials:
