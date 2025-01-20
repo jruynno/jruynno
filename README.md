@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 ☁️ An aspiring Cloud Arhcitect<br>
-🎓 A Fresh Gradudate with Distinction 🥇🌟<br>
+🎓 A Computer Engineering Degree Holder with Distinction 🥇🌟<br>
 💻 Currently deepening my knowledge in AWS, SQL, and Python
 
 
