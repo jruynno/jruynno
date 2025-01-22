@@ -1,4 +1,4 @@
-# Hello World! I'm Jru, an Aspiring Cloud Architect
+# Hello World! I'm Jru, an Aspiring Cloud Solutions Architect
 
 # 💫 About Me:
 ☁️ An aspiring Cloud Arhcitect<br>
