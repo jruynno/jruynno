@@ -1,4 +1,4 @@
-# Hello World! I'm Jru, an Aspiring Cloud Solutions Architect
+# Hello World! I'm Jru, A Data Analyst || Pursuing Analytics Engineer
 
 # 💫 About Me:
 ☁️ An aspiring Cloud Arhcitect<br>
