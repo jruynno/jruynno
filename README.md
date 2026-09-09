@@ -1,9 +1,5 @@
-# Hello World! I'm Jru, A Data Analyst || Pursuing Analytics Engineer
+# Hello World! I'm Jru, A Data Analyst
 
-# 💫 About Me:
-☁️ An aspiring Cloud Arhcitect<br>
-🎓 A Computer Engineer (Honors) 🥇🌟<br>
-💻 Currently deepening my knowledge in AWS, SQL, and Python
 
 
 ## 🌐 Socials:
